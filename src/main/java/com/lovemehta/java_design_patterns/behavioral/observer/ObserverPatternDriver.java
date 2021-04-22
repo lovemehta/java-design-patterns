@@ -1,6 +1,6 @@
 package com.lovemehta.java_design_patterns.behavioral.observer;
 
-public class BehavioralPatternDriver {
+public class ObserverPatternDriver {
 
 	public static void main(String[] args) {
 
