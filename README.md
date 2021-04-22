@@ -9,11 +9,11 @@ Creational Design Patterns implemented :
 Behavioral Design Patterns implemented : 
 
 	1. Strategy
+	2. Observer
 		
 	
 TODO -
-	
-	Observer
+
 	Builder
 	Adapter
 	State
